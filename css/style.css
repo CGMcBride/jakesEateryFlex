@@ -15,6 +15,7 @@
 /* Column styles */
 .column {
 	display: flex;
+	justify-content: center;
 }
 /* Footer Styles */
 .footer {
