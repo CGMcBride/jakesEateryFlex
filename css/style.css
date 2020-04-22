@@ -13,14 +13,16 @@
 }
 
 /* Column styles */
-
+.column {
+	display: flex;
+}
 /* Footer Styles */
 .footer {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	background-color: black;
 	padding: 15px;
 	width: 100;
 	margin-top: 10px;
-	position: absolute;
+	position: bottom;
 }
